@@ -20,24 +20,17 @@ body {
 }
 
 .main {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 10px;
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
 }
 
-.header {
-  margin: 15px;
-}
-
 .header1 {
   color: hsl(228, 4%, 45%);
   font-weight: 300;
-  /* font-size: 28px; */
   font-size: 2rem;
-  padding: 10px 10px 0px 10px;
   text-wrap: nowrap;
 }
 
@@ -45,7 +38,6 @@ body {
   color: hsl(234, 12%, 34%);
   font-weight: 600;
   font-size: 2rem;
-  /* font-size: 28px; */
   text-wrap: nowrap;
 }
 
@@ -53,8 +45,7 @@ body {
   color: hsl(229, 6%, 66%);
   font-weight: 400;
   font-size: 1rem;
-  /* font-size: 15px; */
-  padding: 15px;
+  padding: 10px;
   text-align: center;
 }
 
@@ -69,7 +60,6 @@ body {
   padding: 0px 20px;
   color: hsl(229, 6%, 66%);
   font-weight: 400;
-  /* font-size: 14px; */
   font-size: 0.9rem;
 }
 
@@ -83,7 +73,7 @@ body {
   flex-direction: row;
   align-items: center;
   flex-wrap: wrap;
-  margin: 15px;
+  margin: 10px;
 }
 
 .div_card {
